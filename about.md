@@ -4,18 +4,16 @@ title: 关于我
 permalink: /about/
 ---
 
-本人业余程序员一枚，就是没事扯扯蛋。
-
-本人生活在伟大的天朝，以前总搞不懂建GFW的原因，长大后才发现政府建造GFW真是太TM机智了，太TM用心良苦了。
-
-由于本人自制力较差，且不说Pornhub等两性知识网站的超强撸斗力，单单一个Youtube就可以让我瞬间强撸灰飞烟灭。即使本人意志力足够强，万一不小心点击进了大纪元，遭受到了轮子思想的侵袭，动摇了我"自干五"的伟大情怀那也是极其不好的。
+本人想要停下来享受生活的草根一枚，想了就做做看看想做想看的，不了就不。
 
 祝你开心快乐每一天。
 
-May the "self-fucking-five" force always be with you.
+其实不想写来着,但...又想了...
 
-### 联系我
+座右铭：只有偏执狂才能生存。
 
-* [Learn Hacking](http://github.com/tiancode/learn-hacking) -欢迎star
-* [root@topspeedsnail.com](mailto:root@topspeedsnail.com])
-* 我的另一个博客:[斗大的熊猫](http://blog.topspeedsnail.com)
+
+### 联系
+
+* Telegram@kEviN9H
+* https://t.me/kEviN9H
