@@ -1,4 +1,4 @@
-##1,中文输入法  
+### 1,中文输入法  
 安装fcitx,用五笔拼音，安装fcitx-table-extra,配置工具fcitx-configtool,如果还有其它依赖包会自己安装上  
 如果是ROOT用户安装的多办，ROOT的配置已经OK，但其它的用户没有，需要自己配置一下  
 用要配置的用户登陆  
@@ -44,7 +44,7 @@ autocmd InsertEnter * call Fcitx2zh()
 "##### auto fcitx end ######
 ```
 
-##2,配置TrackPoint指点杆  
+### 2,配置TrackPoint指点杆  
 xf86-input-evdev 和 xf86-input-libinput 都支持它。evdev是 Xorg 的默认驱动，但支持点击和指点, 用中键做滚轮需要更多的配置  
 安装 gpointing-device-settings 软件包，安装后，执行  
 /usr/bin/gpointing-device-settings  
@@ -78,5 +78,5 @@ press_to_select 文件的位置可能会因设备有所不同，有小红点和�
 ACTION=="add", SUBSYSTEM=="input", ATTR{name}=="TPPS/2 IBM TrackPoint", ATTR{device/sensitivity}="240", ATTR{device/press_to_select}="1"
 ```
 
-3,控制CPU风扇
+### 3,控制CPU风扇
 .....
