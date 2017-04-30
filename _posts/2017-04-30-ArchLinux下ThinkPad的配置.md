@@ -72,4 +72,4 @@ ACTION=="add", SUBSYSTEM=="input", ATTR{name}=="TPPS/2 IBM TrackPoint", ATTR{dev
 
 
 3,控制CPU风扇
-下次来补
+.....
