@@ -42,7 +42,14 @@ julia>  reinterpret(Int32,UInt32(2148270094))
 
 ```
 这两个结果是出错代码,是OS的,是什么问题在微软的网站上查  
-https://social.msdn.microsoft.com/Search/en-US?query=-2146697211%200x800c0005&pgArea=header&emptyWatermark=true&ac=5   
+[search: -2146697211 0x800c0005](https://social.msdn.microsoft.com/Search/en-US?query=-2146697211%200x800c0005&pgArea=header&emptyWatermark=true&ac=5)   
 
-https://msdn.microsoft.com/en-us/library/ms775145(v=vs.85).aspx  
+[URL Moniker Error Codes](https://msdn.microsoft.com/en-us/library/ms775145(v=vs.85).aspx)  
+
+先找到问题再找解决办法
+出错[0x800c0005](https://support.microsoft.com/en-us/help/843499/-error-0x8004005-or-error-0x800c0005-error-messages-when-you-scan-for-updates)   
+INET_E_RESOURCE_NOT_FOUND
+0x800C0005
+The server or proxy was not found.
+
 
