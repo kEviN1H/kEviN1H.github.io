@@ -1,0 +1,7 @@
+PowerShell策略不允许任何脚本运行   
+  
+查询现有策略：  
+get-executionpolicy  
+  
+在本地运行未签名脚本或来自其他用户的签名脚本,需要更改策略为 RemoteSigned：  
+set-executionpolicy remotesigned  
