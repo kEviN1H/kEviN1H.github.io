@@ -52,4 +52,14 @@ INET_E_RESOURCE_NOT_FOUND
 0x800C0005
 The server or proxy was not found.
 
-
+把代理服务器地址加到machine.config里,文件默认位置C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CONFIG   
+```xml
+  <system.net> 
+    <defaultProxy> 
+      <proxy usesystemdefault="false" proxyaddress="http://127.0.0.1:8087" bypassonlocal="true" /> 
+     </defaultProxy>
+  </system.net>
+  ```
+  
+ 加到文件最后</configuration>的前面.
+ 
